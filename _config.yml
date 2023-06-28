@@ -1,8 +1,6 @@
-title: <p align="center">Vivek Rajeev</p>
+title: Vivek Rajeev
 logo: /assets/img/logo.png
-description: <p>
-<b>Im just a dev who likes to have fun</b>
-</p>
+description:  sample data here
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
